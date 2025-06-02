@@ -48,5 +48,5 @@ Rinse and repeat the cycle for as long as you like. The game is meant to be chil
 
 ## 📷 Youtube demo
 
-[![Watch The Garden Gameplay on YouTube]](https://www.youtube.com/watch?v=oisz0TvwFXc&t=2s&ab_channel=AntoninLarvor)
+[![Watch The Garden Gameplay on YouTube](./thegarden.png)](https://www.youtube.com/watch?v=oisz0TvwFXc&t=2s&ab_channel=AntoninLarvor)
 
